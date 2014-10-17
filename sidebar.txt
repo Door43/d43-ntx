@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ntx:home|Door43 (ntx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ntx|d43-ntx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ntx/archive/master.zip|d43-ntx.zip]]
+
+**Recent Changes**
+{{changes>ns = ntx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ntx|Ethnologue data]]
+
